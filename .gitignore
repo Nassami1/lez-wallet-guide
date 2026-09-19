@@ -1,0 +1,6 @@
+.lee/
+*.json
+target/
+.DS_Store
+*.old
+wallet.broken*
