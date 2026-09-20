@@ -2,7 +2,7 @@
 
 Step by step tutorial for the Logos Execution Zone (LEZ) **public testnet**:
 
-![Uploading photo_3_2026-09-20_11-03-35.jpg…]()
+<img width="1280" height="720" alt="photo_3_2026-09-20_11-03-35" src="https://github.com/user-attachments/assets/6cda5726-4b06-4e0e-92f7-13dda771ce76" />
 
 
 1. Install system dependencies (including Rust/Cargo)
