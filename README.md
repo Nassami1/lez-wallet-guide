@@ -1,6 +1,9 @@
 # Logos LEZ Wallet and Custom Token Guide
 
-Step-by-step tutorial for the Logos Execution Zone (LEZ) **public testnet**:
+Step by step tutorial for the Logos Execution Zone (LEZ) **public testnet**:
+
+![Uploading photo_3_2026-09-20_11-03-35.jpg…]()
+
 
 1. Install system dependencies (including Rust/Cargo)
 2. Install the wallet CLI
